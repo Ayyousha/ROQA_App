@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>193252078357-sgqphj2ijv2rkbus9v0kk3nmuoktf1r4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.193252078357-sgqphj2ijv2rkbus9v0kk3nmuoktf1r4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>193252078357-sd1mh1megfktltg9sbaidn5lg8u84soh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMQfNUa1Ka7Q3NF7rsyXHKU9lqQCk0H5I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>193252078357</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.roqasocial</string>
+	<key>PROJECT_ID</key>
+	<string>roqasocial</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roqasocial.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:193252078357:ios:0e2624893c23c6b1fcef1c</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "193252078357",
+    "project_id": "roqasocial",
+    "storage_bucket": "roqasocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193252078357:android:e9370260e8554f8cfcef1c",
+        "android_client_info": {
+          "package_name": "com.example.roqasocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193252078357-sd1mh1megfktltg9sbaidn5lg8u84soh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roqasocial",
+            "certificate_hash": "444abf0e855cc87b94ca82bbea276c9d7244b8f6"
+          }
+        },
+        {
+          "client_id": "193252078357-qn3h7dp4fglusqrcelq0qkkmmv9m7ac6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDtGzrhMYTcx947yt17T2zSeJ4PnbcHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193252078357-qn3h7dp4fglusqrcelq0qkkmmv9m7ac6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
