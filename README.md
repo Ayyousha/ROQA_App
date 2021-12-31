@@ -1,3 +1,21 @@
 # ROQA_app
 
 This his app use Firebase with Bloc state management, it lets users log in or sign up with authentication by firebase and add to users panel, users can write a post with photo and hashtag and create in his panel, users can put like or a comment or open the poster author account information, users can chat with each other, can play videos that are in your profile, edit profile by change photo or cover and profile information.
+![Screenshot_20211231-224800](https://user-images.githubusercontent.com/93460361/147838883-0cde855c-b0dd-427f-ba89-1d43ea5300aa.jpg)
+![Screenshot_20211231-224806](https://user-images.githubusercontent.com/93460361/147838886-4c766f2e-d056-4d74-bdf2-e933a65335c0.jpg)
+![Screenshot_20211231-224936](https://user-images.githubusercontent.com/93460361/147838888-9ba62a5b-50e9-4445-917d-70d18dec7758.jpg)
+![Screenshot_20211231-225332](https://user-images.githubusercontent.com/93460361/147838892-c1102fbf-51d7-41c8-8bc3-171b8d35f1be.jpg)
+![Screenshot_20211231-225355](https://user-images.githubusercontent.com/93460361/147838893-7a89228a-0777-4da7-b9e0-91c492ac9c9b.jpg)
+![Screenshot_20211231-225408](https://user-images.githubusercontent.com/93460361/147838894-dd59fa31-f134-49b7-82a7-dfbcc7ce90e1.jpg)
+![Screenshot_20211231-225410](https://user-images.githubusercontent.com/93460361/147838895-a06057e0-9d40-436d-9364-90cd747409ee.jpg)
+![Screenshot_20211231-225421](https://user-images.githubusercontent.com/93460361/147838896-c3792b4d-0573-43bb-8fc7-8da208028279.jpg)
+![Screenshot_20211231-225429](https://user-images.githubusercontent.com/93460361/147838899-dfc455e4-68ec-438b-8bb1-8eefb80682e9.jpg)
+![Screenshot_20211231-225436](https://user-images.githubusercontent.com/93460361/147838900-5172f380-c1d5-4ed3-bae5-938dce439165.jpg)
+![Screenshot_20211231-225537](https://user-images.githubusercontent.com/93460361/147838903-3b0c38e3-253c-4bc6-a23d-d6c42905216f.jpg)
+![Screenshot_20211231-225504](https://user-images.githubusercontent.com/93460361/147838904-dce39c9f-ad64-46fb-8ae5-8402f3763c73.jpg)
+![Screenshot_20211231-225127](https://user-images.githubusercontent.com/93460361/147838905-4867f338-4227-4841-8353-a152d8cc964e.jpg)
+![Screenshot_20211231-225122](https://user-images.githubusercontent.com/93460361/147838906-4bdf950d-1ee0-4172-b1e7-60cb8e4ff94f.jpg)
+![Screenshot_20211231-225115](https://user-images.githubusercontent.com/93460361/147838908-41f04fb5-9902-4fb7-82f1-bcd1135ab815.jpg)
+![Screenshot_20211231-224958](https://user-images.githubusercontent.com/93460361/147838910-28e9e4f1-3350-4cd5-9180-6719268bb306.jpg)
+![Screenshot_20211231-224950](https://user-images.githubusercontent.com/93460361/147838911-ce47ab0d-6f75-497a-8b46-c22563c5f136.jpg)
+![Screenshot_20211231-224955](https://user-images.githubusercontent.com/93460361/147838913-6da731a6-7f89-4125-81a3-6df7df8c8003.jpg)
